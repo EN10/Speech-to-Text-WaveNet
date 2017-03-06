@@ -11,6 +11,7 @@ For Dependancies see:
 To see which version installed use:    
 
     pip freeze
+    pip show tensorflow
 
 If a newer version is installed then uninstall: 
 
@@ -20,10 +21,6 @@ Then install correct version:
 
     sudo pip install sugartensor==0.0.1.9
 
-Tensorflow version: 
-
-    sudo pip show tensorflow
-  
 To install correct version of tensorflow: 
 
     sudo pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0-cp27-none-linux_x86_64.whl
