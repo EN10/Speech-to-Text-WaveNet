@@ -27,7 +27,7 @@ To install correct version of tensorflow:
 
 Use recognise using test file:  
 
-        python recognize.py --file test.wav
+    python recognize.py --file test.wav
 
 ImportError: No module named  
 
