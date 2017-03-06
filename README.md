@@ -6,8 +6,8 @@ Install
 -
 
 If Dependencies are installed as described then it works!   
-Seems to break with newer dependencies installed.   
-For Dependancies see:  
+Seems to break with newer versions of tensorflow or sugartensor.   
+For original Dependancies see:  
 
     requirements.txt
 
