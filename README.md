@@ -1,20 +1,36 @@
 #Speech-to-Text-WaveNet#
 
-Based on: https://github.com/buriburisuri/speech-to-text-wavenet
-
-See 'requirements.txt' for Dependancies.  
+Based on: https://github.com/buriburisuri/speech-to-text-wavenet  
 
 If Dependencies are installed as described then it works! 
 Seems to brake with newer dependencies installed. 
-Used: 'pip freeze' to see which version installed.  
-If a newer version is installed then uninstall: 'sudo pip uninstall sugartensor'  
-Then install correct version: 'sudo pip install sugartensor==0.0.1.9' 
-Tensorflow version: 'sudo pip show tensorflow'  
-To install correct version of tensorflow: 
-'sudo pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0-cp27-none-linux_x86_64.whl'
+For Dependancies see:  
 
-Convert Audio:  
-http://superuser.com/questions/23930/how-to-decode-aac-m4a-audio-files-into-wav
+    requirements.txt
+
+To see which version installed use:    
+
+    pip freeze
+
+If a newer version is installed then uninstall: 
+
+    sudo pip uninstall sugartensor
+
+Then install correct version: 
+
+    sudo pip install sugartensor==0.0.1.9
+
+Tensorflow version: 
+
+    sudo pip show tensorflow
+  
+To install correct version of tensorflow: 
+
+    sudo pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0-cp27-none-linux_x86_64.whl
 
 ImportError: No module named  
-'sudo -H pip install'
+
+    sudo -H pip install
+    
+Convert Audio:  
+http://superuser.com/questions/23930/how-to-decode-aac-m4a-audio-files-into-wav
