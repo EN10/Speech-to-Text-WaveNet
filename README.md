@@ -2,8 +2,8 @@
 
 Based on: https://github.com/buriburisuri/speech-to-text-wavenet  
 
-If Dependencies are installed as described then it works! 
-Seems to brake with newer dependencies installed. 
+If Dependencies are installed as described then it works!   
+Seems to brake with newer dependencies installed.   
 For Dependancies see:  
 
     requirements.txt
