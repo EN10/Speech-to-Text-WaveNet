@@ -25,6 +25,10 @@ To install correct version of tensorflow:
 
     sudo pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0-cp27-none-linux_x86_64.whl
 
+Use recognise using test file:  
+
+        python recognize.py --file test.wav
+
 ImportError: No module named  
 
     sudo -H pip install
