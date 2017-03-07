@@ -1,7 +1,7 @@
 #Speech-to-Text-WaveNet#
 
 Based on: https://github.com/buriburisuri/speech-to-text-wavenet  
-With file dependancies and pre-trained model for recognize.py    
+With file dependancies and pre-trained model in assets folder for recognize.py    
 
 Install
 -
