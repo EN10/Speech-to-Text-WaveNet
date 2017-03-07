@@ -8,9 +8,8 @@ Install
 
 If Dependencies are installed as described then it works!   
 Seems to break with newer versions of tensorflow or sugartensor.   
-
-For Updated Dependancies see:  
-https://github.com/EN10/STT/blob/master/requirements.txt
+Working Dependancies: https://github.com/EN10/STT#working-dependancies      
+Dependancies File:  https://github.com/EN10/STT/blob/master/requirements.txt    
 
 To see which version installed use:    
 
