@@ -1,15 +1,16 @@
 #Speech-to-Text-WaveNet#
 
 Based on: https://github.com/buriburisuri/speech-to-text-wavenet  
+With file dependancies and pre-trained model for recognize.py    
 
 Install
 -
 
 If Dependencies are installed as described then it works!   
 Seems to break with newer versions of tensorflow or sugartensor.   
-For original Dependancies see:  
 
-    requirements.txt
+For Updated Dependancies see:  
+https://github.com/EN10/STT/blob/master/requirements.txt
 
 To see which version installed use:    
 
