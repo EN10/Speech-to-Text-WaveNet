@@ -5,7 +5,7 @@ With file dependancies and pre-trained model in assets folder for recognize.py
 
 Dependencies
 -
-The original dependancies are not 100% correct described here:  
+The original dependancies are not 100% correct, as described here:  
 https://github.com/buriburisuri/speech-to-text-wavenet#dependencies     
 It seems to break with newer versions of tensorflow or sugartensor.   
 
