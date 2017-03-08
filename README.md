@@ -1,7 +1,12 @@
 #Speech-to-Text-WaveNet#
 
 Based on: https://github.com/buriburisuri/speech-to-text-wavenet  
-With file dependancies and pre-trained model in assets folder for recognize.py    
+I have included the asset folder with pre-trained model which is not included in original repository.   
+
+The pre-trained model is from here:     
+https://github.com/buriburisuri/speech-to-text-wavenet#pre-trained-models   
+The model was trained on the CSTR VCTK Corpus:  
+http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html     
 
 Dependencies
 -
